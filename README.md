@@ -15,7 +15,7 @@ O objetivo deste projeto é implementar o algoritmo de treinamento do neurônio 
 
 ## Autores
 
-- [Nome do Autor 1](https://github.com/caahp)
-- [Nome do Autor 2](https://github.com/ericperinn)
-- [Nome do Autor 3](https://github.com/yara265)
+- [Caroline Pereira](https://github.com/caahp)
+- [Eric Perin](https://github.com/ericperinn)
+- [Yara Nunes](https://github.com/yara265)
 
